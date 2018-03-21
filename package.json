@@ -1,0 +1,22 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "GE hackathon stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "aishyorda"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishvaria/Hackathon.git"
+  },
+  "keywords": [
+    "GE"
+  ],
+  "author": "aish, yorda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishvaria/Hackathon/issues"
+  },
+  "homepage": "https://github.com/aishvaria/Hackathon#readme"
+}
